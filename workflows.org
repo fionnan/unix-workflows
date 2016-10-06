@@ -9,19 +9,25 @@ The format is:
 
 *N.B.* Make sure to bring your laptop!
 
-You will be able to post links to tools and configs etc on the meetup page or this repo after [[https://help.github.com/articles/creating-a-pull-request/][(PR]]s are welcome!).
+You will be able to post links to tools and configs etc on the meetup page or this repo after ([[https://help.github.com/articles/creating-a-pull-request/][PR]]s are welcome!).
 
 This file was written using [[http://orgmode.org/worg/org-tutorials/][Org mode]], a sort of plain text todo list and organiser for emacs.
 
-* Unix philosophy
-This meetup group is about learning tools that adhere to the [[https://en.wikipedia.org/wiki/Unix_philosophy][Unix philosophy]].
+* Background
+This meetup group is about:
+- anything Unix
+- KISS philosophy
+- pipes
+- scripting and automation
+- keyboard shortcuts and config hacks
+- interesting unix libs and packages
 
-This can be summarised as:
+The [[https://en.wikipedia.org/wiki/Unix_philosophy][Unix philosophy]] can be summarised as:
 - *Write programs to do one thing and do it well.*
 - *Write programs to work together.* 
 - *Write programs to handle text streams because that is a universal interface.*
 
-There's a lot of great material around about Unix history and philosophy, here are some links we found preparing the first session:
+There's a lot of great material around about Unix history and philosophy, here are some links to get started:
 
 - [[http://www.catb.org/esr/writings/taoup/html/ch01s06.html][Basics of the Unix Philosophy]]
 
