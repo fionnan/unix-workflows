@@ -1,7 +1,7 @@
 * Unix workflows
 A monthly meetup in Dublin for sharing Unix tools and workflows.
 
-E.g. share how you use tools like [[https://tmux.github.io][tmux]], [[https://mosh.org][mosh]], [[https://stedolan.github.io/jq/][jq]] or [[https://www.gnu.org/software/gawk/manual/gawk.html][AWK]] to to make your day-to-day easier and automate your work
+E.g. share how you use tools like [[https://tmux.github.io][tmux]], [[https://mosh.org][mosh]], [[https://stedolan.github.io/jq/][jq]] or [[https://www.gnu.org/software/gawk/manual/gawk.html][AWK]] to to make your day-to-day easier and automate your work.
 
 The format is:
 - 1 hour of short talks & live demos
@@ -51,7 +51,7 @@ There's a lot of great material around about Unix history and philosophy, here a
 
 20:00  talk / live demo TBA
 
-Feel free to fill in your talk & links if you presented.
+Feel free to fill in your talk & links
 
 ** Recap
 _Links and resources related to stuff discussed in session 1_.
