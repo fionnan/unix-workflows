@@ -1,0 +1,73 @@
+* Unix workflows
+A monthly meetup in Dublin for sharing Unix tools and workflows.
+
+E.g. share how you use tools like [[https://tmux.github.io][tmux]], [[https://mosh.org][mosh]], [[https://stedolan.github.io/jq/][jq]] or [[https://www.gnu.org/software/gawk/manual/gawk.html][AWK]] to to make your day-to-day easier and automate your work
+
+The format is:
+- 1 hour of short talks & live demos
+- chat in the pub after
+
+*N.B.* Make sure to bring your laptop!
+
+You will be able to post links to tools and configs etc on the meetup page or this repo after [[https://help.github.com/articles/creating-a-pull-request/][(PR]]s are welcome!).
+
+This file was written using [[http://orgmode.org/worg/org-tutorials/][Org mode]], a sort of plain text todo list and organiser for emacs.
+
+* Unix philosophy
+This meetup group is about learning tools that adhere to the [[https://en.wikipedia.org/wiki/Unix_philosophy][Unix philosophy]].
+
+This can be summarised as:
+- *Write programs to do one thing and do it well.*
+- *Write programs to work together.* 
+- *Write programs to handle text streams because that is a universal interface.*
+
+There's a lot of great material around about Unix history and philosophy, here are some links we found preparing the first session:
+
+- [[http://www.catb.org/esr/writings/taoup/html/ch01s06.html][Basics of the Unix Philosophy]]
+
+- [[http://www.ru.j-npcs.org/usoft/WWW/LJ/Articles/unixtenets.html][Tenets of the Unix philosophy]]
+
+- [[http://cristal.inria.fr/~weis/info/commandline.html][In the beginning was the command line]]
+
+- [[https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/][Screenshots from developers 2002 vs 2015]]
+
+* Session 1
+[[http://www.meetup.com/Dublin-Unix-Users-Group/events/233816925/][Meetup page]]
+
+** Schedule
+19:00  Intro - Fionnán Alt
+
+19:10  Shell environments - Paul Palmes
+
+19:20  [[http://xmonad.org][XMonad WM]] - Niall Moran
+
+19:30  [[https://github.com/syl20bnr/spacemacs][Spacemacs]] - Louis Burke
+
+19:30  talk / live demo TBA
+ 
+19:40  talk / live demo TBA
+
+19:50  talk / live demo TBA
+
+20:00  talk / live demo TBA
+
+Feel free to fill in your talk & links if you presented.
+
+** Recap
+_Links and resources related to stuff discussed in session 1_.
+
+Please submit a PR if you'd like to add links to your own work, configs or tools you like here:
+
+[[https://github.com/mawww/kakoune][Kakoune]]
+
+[[https://hisham.hm/htop/index.php?page=faq][htop]]
+
+[[http://www.zsh.org][Zsh]]
+
+[[https://wiki.haskell.org/Xmonad/Config_archive][XMonad config archive]]
+
+[[http://spacemacs.org][Spacemacs]]
+
+[[http://orgmode.org][Org mode]]
+
+[[https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks][Interesting IPython/Jupyter notebooks]]
