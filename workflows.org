@@ -64,6 +64,8 @@ _Links and resources related to stuff discussed in session 1_.
 
 Please submit a PR if you'd like to add links to your own work, configs or tools you like here:
 
+[[https://sanctum.geek.nz/arabesque/series/unix-as-ide/][Unix as an IDE]]
+
 [[https://github.com/mawww/kakoune][Kakoune]]
 
 [[https://hisham.hm/htop/index.php?page=faq][htop]]
