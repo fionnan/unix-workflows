@@ -1,4 +1,4 @@
-* Unix workflows
+* Dubl*n{i,u}x
 A monthly meetup in Dublin for sharing Unix tools and workflows.
 
 E.g. share how you use tools like [[https://tmux.github.io][tmux]], [[https://mosh.org][mosh]], [[https://stedolan.github.io/jq/][jq]] or [[https://www.gnu.org/software/gawk/manual/gawk.html][AWK]] to to make your day-to-day easier and automate your work.
