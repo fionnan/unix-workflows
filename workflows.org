@@ -13,7 +13,7 @@ You will be able to post links to tools and configs etc on the meetup page or th
 
 This file was written using [[http://orgmode.org/worg/org-tutorials/][Org mode]], a sort of plain text todo list and organiser for emacs.
 
-* Background
+** Background
 This meetup group is about:
 - anything Unix
 - KISS philosophy
@@ -37,10 +37,10 @@ There's a lot of great material around about Unix history and philosophy, here a
 
 - [[https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/][Screenshots from developers 2002 vs 2015]]
 
-* Session 1
+** Session 1
 [[http://www.meetup.com/Dublin-Unix-Users-Group/events/233816925/][Meetup page]]
 
-** Schedule
+*** Schedule
 19:00  Intro - Fionnán Alt
 
 19:10  Shell environments - Paul Palmes
@@ -59,7 +59,7 @@ There's a lot of great material around about Unix history and philosophy, here a
 
 Feel free to fill in your talk & links
 
-** Recap
+*** Recap
 _Links and resources related to stuff discussed in session 1_.
 
 Please submit a PR if you'd like to add links to your own work, configs or tools you like here:
