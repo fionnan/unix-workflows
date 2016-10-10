@@ -22,12 +22,7 @@ This meetup group is about:
 - keyboard shortcuts and config hacks
 - interesting unix libs and packages
 
-The [[https://en.wikipedia.org/wiki/Unix_philosophy][Unix philosophy]] can be summarised as:
-- *Write programs to do one thing and do it well.*
-- *Write programs to work together.* 
-- *Write programs to handle text streams because that is a universal interface.*
-
-There's a lot of great material around about Unix history and philosophy, here are some links to get started:
+There's a lot of great material around about Unix history and [[https://en.wikipedia.org/wiki/Unix_philosophy][philosophy]], here are some links to get started:
 
 - [[http://www.catb.org/esr/writings/taoup/html/ch01s06.html][Basics of the Unix Philosophy]]
 
